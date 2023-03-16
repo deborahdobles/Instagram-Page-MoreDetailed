@@ -1,0 +1,77 @@
+.container {
+    background-color: black;
+    padding: 50px;
+}
+.post {
+    background-color: white;
+    margin: auto;
+    max-width: 600px;
+ }
+ 
+ .post-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+ }
+
+ .profile-pic {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 5px;
+ }
+ 
+ .username {
+    padding-left: 0px;
+    margin: 0;
+ }
+
+ .username p {
+    margin: 0;
+ }
+
+
+div.post-header i {
+    float: right;
+    width: 20%;
+    text-align: right;
+    padding: 10px;
+    padding-left: 380px;
+ }
+ 
+ .post-image {
+    width: 100%;
+ }
+
+ .actions{
+    padding-left: 10px;
+    padding-top: 10px;
+    position: relative;
+    font-size: x-large;
+    margin-top: 7px;
+    margin-bottom: 15px;
+    margin-left: 5px;  
+ }
+
+ .firstchild{
+    position: absolute;
+    top: 0;
+    left: 0;
+ }
+
+ .lastchild{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-right: 7px;
+ }
+ .likes {
+    padding: 10px;
+    margin-top: 5px;
+ }
+ 
+ .caption {
+    padding: 10px;
+ }
+ 
